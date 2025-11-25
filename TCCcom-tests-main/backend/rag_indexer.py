@@ -1,7 +1,6 @@
 from dotenv import load_dotenv
 load_dotenv() # Carrega a chave de API do .env
-
-from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain.text_splitter import RecursiveCharacterTextSplitter
 from pymongo import MongoClient
 from pathlib import Path
 import os
