@@ -1,0 +1,15 @@
+
+RECIBO DE DESPESAS MÉDICAS - 2024
+
+HOSPITAL SÃO JOSÉ
+CNPJ: 98.765.432/0001-10
+
+Paciente: João da Silva
+CPF: 123.456.789-00
+
+Descrição dos Serviços:
+- Consultas médicas: R$ 1.500,00
+- Exames laboratoriais: R$ 800,00
+- Plano de Saúde (anual): R$ 6.000,00
+
+TOTAL: R$ 8.300,00

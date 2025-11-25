@@ -1,0 +1,101 @@
+# CONHECIMENTO BASE SOBRE IMPOSTO DE RENDA PESSOA FÍSICA (IRPF) 2024
+
+## O QUE É O IMPOSTO DE RENDA?
+
+O Imposto de Renda Pessoa Física (IRPF) é um tributo federal cobrado anualmente pela Receita Federal do Brasil sobre os rendimentos de pessoas físicas residentes no país.
+
+## QUEM DEVE DECLARAR?
+
+Está obrigado a declarar o IRPF em 2024 quem, no ano-calendário de 2023:
+
+1. Recebeu rendimentos tributáveis acima de R$ 28.559,70
+2. Recebeu rendimentos isentos, não tributáveis ou tributados exclusivamente na fonte acima de R$ 40.000,00
+3. Teve receita bruta da atividade rural superior a R$ 142.798,50
+4. Teve posse ou propriedade de bens ou direitos acima de R$ 300.000,00
+5. Realizou operações em bolsa de valores
+6. Passou à condição de residente no Brasil em qualquer mês
+
+## TABELA PROGRESSIVA DO IR 2024
+
+Base de Cálculo (R$)          | Alíquota | Parcela a Deduzir
+------------------------------|----------|-------------------
+Até 2.112,00                  | Isento   | -
+De 2.112,01 até 2.826,65      | 7,5%     | R$ 158,40
+De 2.826,66 até 3.751,05      | 15%      | R$ 370,40
+De 3.751,06 até 4.664,68      | 22,5%    | R$ 651,73
+Acima de 4.664,68             | 27,5%    | R$ 884,96
+
+## DEDUÇÕES PERMITIDAS
+
+### 1. DESPESAS MÉDICAS
+- Não há limite para dedução
+- Consultas, exames, internações, planos de saúde
+- Despesas com dependentes também são dedutíveis
+- Necessário guardar todos os comprovantes e recibos
+
+### 2. DESPESAS COM EDUCAÇÃO
+- Limite de R$ 3.561,50 por pessoa (titular e dependentes)
+- Educação infantil, ensino fundamental, médio e superior
+- Cursos técnicos e tecnológicos
+- NÃO são dedutíveis: cursos de idiomas, preparatórios, material escolar
+
+### 3. DEPENDENTES
+- Dedução de R$ 2.275,08 por dependente
+- Podem ser dependentes: filhos até 21 anos (ou 24 se universitários), cônjuge, companheiro(a), pais, avós
+
+### 4. CONTRIBUIÇÃO PREVIDENCIÁRIA
+- INSS é totalmente dedutível
+- Previdência privada (PGBL) até 12% da renda bruta anual
+
+### 5. PENSÃO ALIMENTÍCIA
+- Totalmente dedutível quando estabelecida por decisão judicial ou acordo homologado
+
+## TIPOS DE DECLARAÇÃO
+
+### DECLARAÇÃO COMPLETA
+- Permite deduzir todas as despesas dedutíveis (médicas, educação, dependentes, etc.)
+- Indicada para quem tem muitas despesas dedutíveis
+- Desconto padrão não se aplica
+
+### DECLARAÇÃO SIMPLIFICADA
+- Desconto padrão de 20% dos rendimentos tributáveis, limitado a R$ 16.754,34
+- Indicada para quem tem poucas despesas dedutíveis
+- Mais simples e rápida de preencher
+- Não permite deduzir despesas individuais
+
+## RESTITUIÇÃO
+
+A restituição do IR ocorre quando o imposto retido na fonte durante o ano foi maior do que o imposto devido calculado na declaração.
+
+### QUEM TEM PRIORIDADE NA RESTITUIÇÃO?
+1. Idosos com 80 anos ou mais
+2. Idosos com 60 anos ou mais, deficientes e portadores de doença grave
+3. Contribuintes cuja maior fonte de renda seja o magistério
+4. Demais contribuintes (por ordem de envio da declaração)
+
+## INFORME DE RENDIMENTOS
+
+O Informe de Rendimentos é o documento fornecido por empresas, bancos e outras instituições que mostra:
+- Rendimentos pagos ao contribuinte
+- Imposto retido na fonte
+- Contribuição previdenciária
+- 13º salário
+
+É FUNDAMENTAL guardar todos os informes para fazer a declaração corretamente.
+
+## MALHA FINA
+
+A "malha fina" é a revisão detalhada que a Receita Federal faz em declarações com inconsistências.
+
+### CAUSAS COMUNS:
+- Omissão de rendimentos
+- Despesas médicas sem comprovação
+- Divergência entre valores declarados e informados por fontes pagadoras
+- Dedução de dependentes irregulares
+- Erros no CPF de dependentes
+
+### COMO EVITAR:
+- Confira todos os dados antes de enviar
+- Não invente despesas
+- Declare todos os rendimentos
+- Guarde comprovantes por 5 anos
